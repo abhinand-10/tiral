@@ -13,7 +13,7 @@ class _HomeState extends State<Home> {
     return Scaffold(
       body: Center(
         child: Row(
-        //  mainAxisAlignment: MainAxisAlignment.center,
+          mainAxisAlignment: MainAxisAlignment.center,
           children: [Text("This is a home page")],
         ),
       ),
